@@ -1,0 +1,35 @@
+body{
+    background-color: #cecece;
+    
+    
+}
+
+.container{
+
+    width: 600px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: white;
+    border-radius: 50px;
+    
+}
+
+form#formulario{
+    
+    margin-top: 30px;
+    
+}
+
+.form-group{
+    padding-inline-start: 10px;
+
+}
+
+.form-row{
+    padding-left: 10px;
+    
+}
+
+.btn{
+    margin-left: 10px ;
+}
